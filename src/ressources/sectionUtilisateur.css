@@ -1,0 +1,6 @@
+.SectionUtilisateurBox{
+    height: 75px;
+    background-color: rgba(26, 26, 26, 0.6);
+    color: white;
+    position: fixed;
+}

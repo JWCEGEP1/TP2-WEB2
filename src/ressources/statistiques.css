@@ -1,0 +1,19 @@
+.statistiqueBox{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-left: 100px;
+    color: white
+}
+
+.statistiqueTitre{
+    width: 100%;
+    color: white;
+    margin-left: 50px;
+}
+
+button{
+    margin-top: 15px;
+    margin-left: 100px;
+
+}
