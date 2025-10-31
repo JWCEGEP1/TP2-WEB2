@@ -8,7 +8,7 @@ import useDons from "./script/useDons.js";
 
 import PersistentDrawerLeft from "./ressources/MUI/Drawer.jsx";
 import SectionNouvelles from "./composant/SectionNouvelles.jsx";
-import PageStatistiques from "./composant/PageStatistiques.jsx";
+import PageStatistiques from "./composant/pageStatistiques.jsx";
 import DialogAjoutNouvelle from "./ressources/MUI/DialogAjoutNouvelle.jsx";
 import DialogRecherche from "./ressources/MUI/DialogRecherche.jsx";
 import AffichageDons from "./ressources/MUI/AffichageDons.jsx";
